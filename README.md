@@ -16,7 +16,7 @@ The steps mentioned below are generalized steps, assuming that you already know 
 - **Proxmox version:** Virtual Environment 8.3.3
 - **Network:** Network interfaces of the ONTAP are bridged to the interface of the Proxmox server.
 
-## Instruction:
+## Instructions:
 ### 1. Download the ONTAP Simulator
 Download the ONTAP simulator `.ova` file from NetApp's official website:
 [NetApp ONTAP Simulator Download](https://mysupport.netapp.com/site/tools/tool-eula/simulate-ontap) 
